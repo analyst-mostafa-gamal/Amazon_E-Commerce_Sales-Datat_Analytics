@@ -1,4 +1,7 @@
 # Amazon US Retail Operations & Profitability Analysis
+
+<img width="1285" height="623" alt="Screenshot 2026-04-26 232942" src="https://github.com/user-attachments/assets/73e316b5-b97d-4682-a34a-898e8544e935" />
+
 ## 📌 Project Overview
 This project examines the operational efficiency and financial health of a US-based retail giant. By analyzing over 5,000 orders across four years (2014-2017), I identified key growth opportunities, logistics bottlenecks, and the true cost of product returns.
 
